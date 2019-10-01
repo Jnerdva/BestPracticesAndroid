@@ -1,9 +1,12 @@
-## How To Contribute to This Project
+## Better Practices In Android
+This is an open source project to help developers to build better Android Apps. This repo will be a reference guide  for developers to write
+clean, reusable, optimized code for making smooth user experience app followed by Google's guidelines for Android.
+# How To Contribute to This Project
 Here ia a quick and painless steps to contribute to this project:
 
 * Add your code in any Java/Kotlin language, under specific directories.
-* You can also refer your blog, note that a small description.md file should be added.
-To do so, first create an issue with the task you are doing, for example: "Issue - creating bubble sort in C". 
+* You can also refer your blog, note that a small 'description.md' file should be added.
+To do so, first create an issue with the task you are doing, for example: "Issue - creating test for LiveData". 
 Add the `HacktoberFest` label in the issue and assign the issue to yourself. Create a pull request in response
 to that issue and finally submit it for review.
 
