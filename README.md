@@ -62,4 +62,4 @@ Don't forget to include the comments as seen above. Feel free to include additio
 
 ## Licensing
 
-This repo is licensed under GNU General Public License v3.0. See [LICENSE](https://github.com/Jnerdva/BetterPracticesInAndroid/master/LICENSE) for the full license text.
+This repo is licensed under GNU General Public License v3.0. See [LICENSE](https://github.com/Jnerdva/BetterPracticesInAndroid/blob/master/LICENSE) for the full license text.
